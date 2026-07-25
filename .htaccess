@@ -1,0 +1,2 @@
+# Prefer index.php over index.html when opening the project root
+DirectoryIndex index.php index.html
